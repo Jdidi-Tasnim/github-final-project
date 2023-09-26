@@ -1,2 +1,3 @@
 # MyFirst one
-author="jdidi tasnim"
+## Authors
+- Jdidi Tasnim ([@Jdidi-Tasnim](https://github.com/Jdidi-Tasnim))
